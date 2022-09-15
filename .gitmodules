@@ -5,3 +5,6 @@
 [submodule "Daniyal"]
 	path = Daniyal
 	url = https://github.com/codeconsult12/Daniyal.git
+[submodule "Saghir"]
+	path = Saghir
+	url = https://github.com/codeconsult12/Saghir.git
